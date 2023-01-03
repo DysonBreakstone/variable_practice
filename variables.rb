@@ -13,3 +13,11 @@ avg_potatoes = 12.9
 healthy = true
 simian = false
 mammals = true
+
+gorilla = "Coco"
+bananas = "necessary"
+vegetables = "baked"
+
+puts gorilla
+puts avg_snakes
+puts mammals
