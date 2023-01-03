@@ -10,3 +10,6 @@ avg_snakes = 23.46
 avg_umbrellas = 55.22
 avg_potatoes = 12.9
 
+healthy = true
+simian = false
+mammals = true
